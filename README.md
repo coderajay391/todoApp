@@ -8,7 +8,7 @@ A simple front-end To-Do app built with plain HTML/CSS/JavaScript.
 <image src="./assets/todoApp4.png">Prewview</image>
 
 ## Demo
-[watch Demo](assets/todoApp.mp4)
+[[watch Demo](assets/todoApp.mp4)][("./assets/todoApp1.png")]
 
 ## Features
 
