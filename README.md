@@ -2,10 +2,10 @@
 
 A simple front-end To-Do app built with plain HTML/CSS/JavaScript.
 ## Preview
-<image src="./assets/todoApp1">Prewview</image>
-<image src="./assets/todoApp2">Prewview</image>
-<image src="./assets/todoApp3">Prewview</image>
-<image src="./assets/todoApp4">Prewview</image>
+<image src="./assets/todoApp1.png">Prewview</image>
+<image src="./assets/todoApp2.png">Prewview</image>
+<image src="./assets/todoApp3.png">Prewview</image>
+<image src="./assets/todoApp4.png">Prewview</image>
 
 ## Demo
 [watch Demo](assets/todoApp.mp4)
