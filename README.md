@@ -1,1 +1,36 @@
-# todoApp
+# To-Do App (spireX)
+
+A simple front-end To-Do app built with plain HTML/CSS/JavaScript.
+## Preview
+<image src="./assets/todoApp1">Prewview</image>
+<image src="./assets/todoApp2">Prewview</image>
+<image src="./assets/todoApp3">Prewview</image>
+<image src="./assets/todoApp4">Prewview</image>
+
+## Demo
+[watch Demo](assets/todoApp.mp4)
+
+## Features
+
+- Add new todos
+- Edit existing todos
+- Remove todos
+- Persists todos using `localStorage`
+- Keyboard support: press **Enter** in the input to add/update
+
+## How it works
+
+- Todos are stored in `localStorage` under the key: `todos`
+- Each rendered `<li>` has a `data-index` that matches its index in the stored array
+- Edit mode updates both the UI and `localStorage`
+- Delete re-renders the list to keep indexes consistent
+
+## Run
+
+Open `index.html` in a browser.
+
+## Files
+
+- `index.html` - markup
+- `style.css` - styling
+- `script.js` - app logic
